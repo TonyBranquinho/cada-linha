@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\cada linha\cada linha\bin\Debug\cada linha.exe.config
+C:\temp\ws-vs2019\cada linha\cada linha\bin\Debug\cada linha.exe
+C:\temp\ws-vs2019\cada linha\cada linha\bin\Debug\cada linha.pdb
+C:\temp\ws-vs2019\cada linha\cada linha\obj\Debug\cada linha.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\cada linha\cada linha\obj\Debug\cada linha.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\cada linha\cada linha\obj\Debug\cada linha.exe
+C:\temp\ws-vs2019\cada linha\cada linha\obj\Debug\cada linha.pdb
